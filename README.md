@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Ilyes Rezgui</h1>
 <h3 align="center">A Computer science graduate</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilyesrezgui&label=Profile%20views&color=0e75b6&style=flat" alt="ilyesrezgui" width="1000"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilyesrezgui&label=Profile%20views&color=0e75b6&style=flat" alt="ilyesrezgui" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilyesrezgui" alt="ilyesrezgui" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilyesrezgui" alt="ilyesrezgui" width="1000"/></a> </p>
 
 - 🌱 I’m currently learning **Data Anlaysis and Machine Learning**
 
