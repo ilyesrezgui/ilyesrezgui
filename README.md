@@ -4,7 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilyesrezgui&label=Profile%20views&color=0e75b6&style=flat" alt="ilyesrezgui" /> </p>
 
-<p align="center" width="800"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilyesrezgui" alt="ilyesrezgui" /></a></p>
+<p align="center" width="800">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ilyesrezgui&column=7&margin-w=15&margin-h=15" alt="ilyesrezgui" />
+  </a>
+</p>
+
 
 - 🌱 I’m currently learning **Data Anlaysis and Machine Learning**
 
