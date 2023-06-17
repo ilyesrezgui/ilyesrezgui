@@ -38,10 +38,11 @@
   </a></p>
 
 <div style="display: flex;">
-  
+  <div>
     <img align="left" height="500" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilyesrezgui&show_icons=true&locale=en&layout=compact" alt="ilyesrezgui" />
-  
+  </div>
+   <div>
     <img align="center" width="500" height="500" src="https://github-readme-streak-stats.herokuapp.com/?user=ilyesrezgui" alt="ilyesrezgui" />
-  
+  </div>
 </div>
 
