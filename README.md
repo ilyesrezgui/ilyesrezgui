@@ -1,17 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-16107
-Fork on GitHub
-4474
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
 
 preview
 <h1 align="center">Hi 👋, I'm Ilyes Rezgui</h1>
