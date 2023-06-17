@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Data Anlaysis and Machine Learning**
 
-- 💬 Ask me about **Python, Power Bi**
+- 💬 Ask me about **Python, Machine learning, computer science**
 
 - 📫 How to reach me **ilyesrezgui46@gmail.com**
 
-- ⚡ Fun fact **I started my Computer Science Journey by Accident ( A good accident I'd say)**
+- ⚡ Fun fact **I started my Computer Science Journey unintentionally( A good accident I'd say)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
