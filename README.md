@@ -11,9 +11,9 @@
 </p>
 
 
-- 🌱 I’m currently learning **Data Anlaysis and Machine Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Python, Machine learning, computer science**
+- 💬 Ask me about **Machine learning, computer science**
 
 - 📫 How to reach me **ilyesrezgui46@gmail.com**
 
