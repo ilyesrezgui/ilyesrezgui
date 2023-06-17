@@ -39,6 +39,6 @@
 
 <p><img align="left" height="500" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilyesrezgui&show_icons=true&locale=en&layout=compact" alt="ilyesrezgui" /></p>
 
-<p><img align="center" height="600" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ilyesrezgui&" alt="ilyesrezgui" /></p>
+<p><img align="center" height="500" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ilyesrezgui&" alt="ilyesrezgui" /></p>
 
 
