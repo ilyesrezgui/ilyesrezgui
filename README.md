@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **ilyesrezgui46@gmail.com**
 
-- 📫 I've had different experiences **R&D intern at @Linedata**, **Data Analysis intern at @CCF** ,**Software development intern at @Tuniship**
-- 
 - ⚡ Fun fact **I started my Computer Science Journey unintentionally( A good accident I'd say)**
 
 ### Blogs posts
