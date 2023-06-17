@@ -37,13 +37,10 @@
     <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40"/>
   </a></p>
 
-<div style="display: flex;">
-  <div style="flex: 1;">
-    <img align="left" height="700" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilyesrezgui&show_icons=true&locale=en&layout=compact" alt="ilyesrezgui" />
-  </div>
-  <div style="flex: 1;">
-    <img align="center" height="500" src="https://github-readme-streak-stats.herokuapp.com/?user=ilyesrezgui" alt="ilyesrezgui" />
-  </div>
-</div>
+<p><img align="left" height="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilyesrezgui&show_icons=true&locale=en&layout=compact" alt="ilyesrezgui" /></p>
+
+
+
+<p><img align="center" height="500" src="https://github-readme-streak-stats.herokuapp.com/?user=ilyesrezgui&" alt="ilyesrezgui" /></p>
 
 
