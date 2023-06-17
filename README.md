@@ -1,5 +1,4 @@
 
-preview
 <h1 align="center">Hi 👋, I'm Ilyes Rezgui</h1>
 <h3 align="center">A Computer science graduate</h3>
 
