@@ -37,8 +37,8 @@
     <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40"/>
   </a></p>
 
-<p><img align="center" height="500" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilyesrezgui&show_icons=true&locale=en&layout=compact" alt="ilyesrezgui" /></p>
+<p align="center"><img height="500" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilyesrezgui&show_icons=true&locale=en&layout=compact" alt="ilyesrezgui" /></p>
 
-<p><img align="center" height="500" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=ilyesrezgui&" alt="ilyesrezgui" /></p>
+<p><img  height="500" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=ilyesrezgui&" alt="ilyesrezgui" /></p>
 
 
