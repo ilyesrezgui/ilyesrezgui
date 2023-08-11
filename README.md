@@ -56,7 +56,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Hello Everyone!! <br>👨‍💻I'am a computer science graduate from the higher institute of computer science tunis-manar.<br>👨‍💻Currently working as a research assitant in the Ai field.<br>👨‍💻Very much interested in the intersection between Ai and computer science.<br>👨‍💻 I do write on medium technical article so check these out !</p>
 
 ###
 
