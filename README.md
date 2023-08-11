@@ -70,11 +70,7 @@
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=ilyesrezgui46&theme=cobalt2" alt="Layout with last medium posts"  />
 </div>
 
-###
 
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
