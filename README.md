@@ -53,7 +53,7 @@
 ###
 
 <div align="left">
-  <a href="ilyesrezgui46@gmail.com" target="_blank">
+  <a href="mailto:ilyesrezgui46@gmail.com?subject=Hello%20there&body=I%20wanted%20to%20reach%20out%20to%20you%" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/ilyes-rezgui/" target="_blank">
