@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ilyes REZGUI and I'm a software developer, from Tunisia</h2>
+<h2 align="left">Hi 👋! My name is Ilyes REZGUI and I'm a software developer.</h2>
 
 ###
 
