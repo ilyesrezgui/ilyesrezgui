@@ -24,9 +24,7 @@
   </a>
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/ilyesrezgui/ilyesrezgui/output/snake.svg" alt="Snake animation" />
 
 ###
 
