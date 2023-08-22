@@ -61,14 +61,16 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ilyesrezgui/ilyesrezgui/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=ilyesrezgui46&theme=github_dark" alt="Layout with last medium posts"  />
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=ilyesrezgui46&theme=github_dark" alt="Layout with last medium posts"  />
+  <a href="https://open.spotify.com/user/314zpn44q7xxgsnt3cizlcy6a7mu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
