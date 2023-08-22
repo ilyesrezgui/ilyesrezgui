@@ -2,7 +2,13 @@
 
 ###
 
-<p align="left">Hello Everyone!!<br>👨‍💻I'am a computer science graduate from the higher institute of computer science tunis-manar.<br>👨‍💻Currently working as a research assitant in the Ai field.<br>👨‍💻Very much interested in the intersection between Ai and computer science.<br>👨‍💻 I do write on medium technical article so check these out !<br><br><br>Feel free to reach out to me via one of these platforms !</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ilyesrezgui/count.svg?"  />
+</div>
+
+###
+
+<p align="left">Hello Everyone!!<br>👨‍💻I'am a computer science graduate from the higher institute of computer science tunis-manar.<br>👨‍💻Currently working as a research assitant in the Ai field.<br>👨‍💻Very much interested in the intersection between Ai and computer science.<br>👨‍💻 I do write on medium technical article so check these out !<br><br><br>Feel free to contact me via any of these platforms !</p>
 
 ###
 
@@ -17,6 +23,14 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ilyesrezgui/ilyesrezgui/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left">I'am currently working on deep learning projects. I satarted with building a micrograd to understand the process of grad calculation in a backward pass . Then continued learning about transfer learning using pytorch and fastai.</p>
 
 ###
 
@@ -55,20 +69,18 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ilyesrezgui/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ilyesrezgui&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ilyesrezgui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
+<p align="left">I do write on medium technical articles, so feel free to check these out as well ! <br>You can see below my latest two posts:</p>
+
+###
+
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=ilyesrezgui46&theme=gotham" alt="Layout with last medium posts"  />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=ilyesrezgui46&theme=gotham" alt="Layout with last medium posts"  />
 </div>
 
 ###
