@@ -18,12 +18,6 @@
   </a>
 </div>
 
-
-
-###
-
-<p align="left">I'am currently working on deep learning projects. I satarted with building a micrograd to understand the process of grad calculation in a backward pass . Then continued learning about transfer learning using pytorch and fastai.</p>
-
 ###
 
 <div align="center">
