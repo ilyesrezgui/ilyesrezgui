@@ -1,16 +1,10 @@
 <h2 align="left">Hi 👋! My name is Ilyes Rezgui, and I'm a software developer passionate about AI.</h2>
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ilyesrezgui/count.svg?"  />
-</div>
 
 ###
 
-<p align="left">Hello Everyone!!<br>👨‍💻I'am a computer science graduate from the higher institute of computer science tunis-manar.<br>👨‍💻Currently working as a research assitant in the Ai field.<br>👨‍💻Very much interested in the intersection between Ai and computer science.<br>👨‍💻 I do write on medium technical articles so check these out !<br><br><br>Feel free to contact me via any of these platforms !</p>
 
-###
 
 <div align="center">
   <a href="mailto:ilyesrezgui46@gmail.com" target="_blank">
