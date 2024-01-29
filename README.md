@@ -17,13 +17,3 @@
 
 
 ###
-
-<p align="left">I do write on medium technical articles, so feel free to check these out as well ! <br>You can see below my latest two posts:</p>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=ilyesrezgui46&theme=gotham" alt="Layout with last medium posts"  />
-</div>
-
-###
