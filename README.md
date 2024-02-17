@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ilyes REZGUI, I'm a software developer and a CS research student passionate about AI and Sustainability.</h2>
+<h2 align="left">Hi 👋! My name is Ilyes REZGUI, I'm a software developer and a CS research student passionate about AI , Open-source development and Sustainability.</h2>
 
 
 ###
