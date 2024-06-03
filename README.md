@@ -20,7 +20,8 @@
 
 ###
 
-<p align="left">A master student in software engineering and information systems.  Passionate about AI, Open-source development, and Sustainability.<br><br>- 🔭 I’m currently working on formal verification, SWE and sustainability.<br>- 🔭Looking to collaborate on research papers.</p>
+🔭 I’m currently working on formal verification, SWE and sustainability.<br>- 🔭Looking to collaborate on research papers.</p>
+<br>- 🔭Machine Learning Engineer pursuing a masters degree in software engineering and information systems .</p>
 
 ###
 
