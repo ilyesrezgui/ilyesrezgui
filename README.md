@@ -20,8 +20,9 @@
 
 ###
 
-🔭 I’m currently working on formal verification, SWE and sustainability.<br>- 🔭Looking to collaborate on research papers.</p>
-<br>- 🔭Machine Learning Engineer pursuing a masters degree in software engineering and information systems .</p>
+🔭 I’m currently working on formal verification, SWE and sustainability.
+🔭Looking to collaborate on research papers.</p>
+🔭Machine Learning Engineer pursuing a masters degree in software engineering and information systems .</p>
 
 ###
 
