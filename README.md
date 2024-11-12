@@ -21,7 +21,7 @@
 ###
 
 
-🔭 Machine Learning Engineer pursuing a masters degree in software engineering and information systems .</p>
+🔭 Machine Learning Engineer pursuing a masters degree in data science at ELTE .</p>
 🔭 I’m currently working on formal verification, SWE and sustainability.</p>
 🔭 Looking to collaborate on research papers.</p>
 
