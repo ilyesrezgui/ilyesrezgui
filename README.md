@@ -21,7 +21,7 @@
 ###
 
 
-Machine Learning Engineer pursuing a masters degree in data science at ELTE .</p>
+Data scientist with a master's degree in software engineering .</p>
 
 
 ###
