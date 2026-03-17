@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, It's Ilyes REZGUI 👋 a research scientist working on applied Ai to finance, software engineering anf formal methods. I hold two masters degrees one in Data science from ELTE faculty of informatics, Hungary and the other one in Software engineering from ISI Ariana, Tunisia. </h2>
+<h2 align="center">Hi there, It's Ilyes REZGUI 👋</h2>
 
 ###
 
@@ -18,7 +18,7 @@
 ###
 
 
-Data scientist with a master's degree in software engineering .</p>
+A research scientist working on applied Ai to finance, software engineering anf formal methods. I hold two masters degrees one in Data science from ELTE faculty of informatics, Hungary and the other one in Software engineering from ISI Ariana, Tunisia. </p>
 
 
 ###
