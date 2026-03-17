@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, It's Ilyes REZGUI! 👋</h2>
+<h2 align="center">Hi there, It's Ilyes REZGUI 👋 a research scientist working on applied Ai to finance, software engineering anf formal methods. I hold two masters degrees one in Data science from ELTE faculty of informatics, Hungary and the other one in Software engineering from ISI Ariana, Tunisia. </h2>
 
 ###
 
@@ -6,10 +6,7 @@
   <a href="https://www.linkedin.com/in/ilyes-rezgui-2926aa195/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://medium.com/@ilyesrezgui46" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
-  </a>
-  <a href="mailto:ilyesrezgui46@gmail.com" target="_blank">
+  <a href="mailto:rezgui.ilyes@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
